@@ -1,1 +1,1 @@
-# Linear Regression Task_1 from The Spark Foundation
+# Linear Regression Task_2 from The Spark Foundation
